@@ -1,7 +1,7 @@
 #pragma once
 
-#define VENDOR_ID       0x594D
-#define PRODUCT_ID      0x0001
+#define VENDOR_ID       0x5746 // 'WF' for Wheatfield
+#define PRODUCT_ID      0x5641 // 'VA' short for VE.A
 #define DEVICE_VER      0x0001
 #define MANUFACTURER    YMDK
 #define PRODUCT         Split75
